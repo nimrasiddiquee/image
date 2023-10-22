@@ -1,0 +1,9 @@
+div.box{height:300px;width:300px;padding:10px;}
+p.box{ border-style:solid;}
+p.text {border-style:dotted;}
+p.tex {border-style:dashed;}
+p.musa {border-style:ridge;}
+p.esa {border-style:groove;}
+p.main {border-style:hidden;}
+p.man {border-style:inset;}
+p.boy {border-style:outset;}
